@@ -1,4 +1,7 @@
 ## Hi there 👋
+Biomedical Engineering Undergraduate | Signal Processing & Computational Biology
+
+Passionate about bridging engineering and life sciences through biomedical signal processing (sEMG, ECG), machine learning classification, and genomic sequence analysis. Experienced in building Python data pipelines, hardware circuit simulations (Proteus, ARM Assembly), and 3D CAD modeling (SolidWorks).
 
 <!--
 **Sananaeem05/Sananaeem05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
